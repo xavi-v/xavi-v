@@ -1,10 +1,9 @@
-## Hi there 👋
-My name is Javiera V
+## Hi there 👋 My name is Javiera V
 
 ----
 
 ![](https://i.imgur.com/1l2YkyH.png)
-!()[https://i.imgur.com/1l2YkyH.png]
+
 
 
 
