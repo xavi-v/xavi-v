@@ -22,7 +22,7 @@ One of my first portfolios:
 
 Follow me on Medium:
 
-[![Link](https://img.shields.io/badge/Medium-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://medium.com/@javiera.vergaravidal)
+[![Link](https://img.shields.io/badge/Medium-0077B5?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://medium.com/@javiera.vergaravidal)
 
 ![banner](https://i.imgur.com/zBApuub.png)
 
