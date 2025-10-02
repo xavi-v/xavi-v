@@ -20,6 +20,10 @@ One of my first portfolios:
 
 [![Web](https://img.shields.io/badge/Mini-Portafolio-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://portfolio-darkss.vercel.app/)
 
+Follow me on Medium:
+
+[![Link](https://img.shields.io/badge/Medium-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://medium.com/@javiera.vergaravidal)
+
 ![banner](https://i.imgur.com/zBApuub.png)
 
 
