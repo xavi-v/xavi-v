@@ -3,12 +3,9 @@
 ## Hi there 👋 My name is Javiera V
 
 ----
+I hold a Bachelor’s degree in Biology ⚗️ from the **University of Concepción**, but my interests and skills extend well beyond my academic background. Over the years, I’ve explored diverse fields and built a multidisciplinary toolkit 🧰🔧.
 
 ![](https://i.imgur.com/1l2YkyH.png)
-
-
-L
-I hold a Bachelor’s degree in Biology ⚗️ from the **University of Concepción**, but my interests and skills extend well beyond my academic background. Over the years, I’ve explored diverse fields and built a multidisciplinary toolkit 🧰🔧.
 
 In programming, my main language is Python🐍, and I have experience with Django, some frontend development, and SQL for backend. I also have experience with OSINT tools, through customized pipelines (rather than following the standard pipelines available online, I integrate unconventional sources that others often overlook)
 
