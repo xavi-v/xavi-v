@@ -15,7 +15,7 @@ Contactame en LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javi-vergara-vidal/)
 
 
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://portfolio-darkss.vercel.app/)
+[![Web](https://img.shields.io/badge/Portafolio14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://portfolio-darkss.vercel.app/)
 
 ![banner](https://i.imgur.com/zBApuub.png)
 
