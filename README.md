@@ -7,14 +7,20 @@
 ![](https://i.imgur.com/1l2YkyH.png)
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pharetra nibh ut vulputate mollis. Vivamus at ex viverra, gravida tellus eu, venenatis metus. Nunc at odio elit. Praesent non mollis nunc. Aliquam molestie vel purus vel imperdiet. Sed tempus ipsum mattis elit semper, nec luctus risus posuere. Duis imperdiet eros ut ipsum rutrum, a eleifend mauris maximus.
+L
+I hold a Bachelor’s degree in Biology ⚗️ from the **University of Concepción**, but my interests and skills extend well beyond my academic background. Over the years, I’ve explored diverse fields and built a multidisciplinary toolkit 🧰🔧.
 
-Proin id lacus eget risus elementum pharetra. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi lacinia mauris a porttitor dapibus. Suspendisse ut vehicula urna. Quisque ut magna tincidunt, laoreet tortor a, elementum orci. Sed semper lectus nisi, ac facilisis urna eleifend ut. Sed ut tellus id ipsum cursus molestie at eu lectus. Suspendisse ultrices id mauris quis maximus. Donec maximus lobortis metus in sagittis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer et leo sit amet nunc sollicitudin luctus. Phasellus vel enim mi. Nullam lobortis sapien vitae orci feugiat, quis fringilla urna semper. Ut a nulla faucibus, fermentum diam at, vehicula mi.
+In programming, my main language is Python🐍, and I have experience with Django, some frontend development, and SQL for backend. I also have experience with OSINT tools, through customized pipelines (rather than following the standard pipelines available online, I integrate unconventional sources that others often overlook)
 
-Contactame en LinkedIn: 
+I enjoy experimenting with prompt engineering and am currently expanding my knowledge in **machine learning**.
+
+
+Contact me on LinkedIn:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javi-vergara-vidal/)
 
-Uno de mis primeros portafolios:
+One of my first portfolios:
+
 [![Web](https://img.shields.io/badge/Mini-Portafolio-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://portfolio-darkss.vercel.app/)
 
 ![banner](https://i.imgur.com/zBApuub.png)
